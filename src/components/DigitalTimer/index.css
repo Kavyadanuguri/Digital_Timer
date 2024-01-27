@@ -1,0 +1,112 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+}
+.con1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  height: 550px;
+  width: 600px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.arrange {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+}
+
+.p1 {
+  text-align: center;
+  margin-top: 5px;
+  font-weight: bold;
+}
+.kavya {
+  text-align: center;
+  color: #00d9f5;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.para1 {
+  background-color: white;
+  width: 140px;
+  height: 140px;
+  border-radius: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.con2 {
+  display: flex;
+  flex-direction: row;
+}
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+}
+.image1 {
+  width: 30px;
+  height: 30px;
+  margin-top: 30px;
+}
+.p2 {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: transparent;
+  margin-top: 30px;
+  border-width: 0px;
+}
+
+.div-container {
+  width: 25vw;
+  margin-top: 150px;
+  margin-left: 0px;
+}
+
+.p3 {
+  font-weight: bold;
+  text-align: center;
+}
+.con3 {
+  display: flex;
+  justify-content: center;
+}
+.btn1 {
+  background-color: transparent;
+  border-width: 0px;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 10px;
+}
+.p4 {
+  background-image: linear-gradient(to left, #00d9f5, #42f5bc);
+  width: 60px;
+  height: 40px;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+}
